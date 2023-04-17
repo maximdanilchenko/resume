@@ -3,7 +3,7 @@ Engineering Manager at inDrive
 
 _Limassol, Cyprus_
 
-[dmax.dev@gmail.com](mailto:dmax.dev@gmail.com) | +357 95158100 | [@hiimmax](https://t.me/hiimmax)
+[dmax.dev@gmail.com](mailto:dmax.dev@gmail.com) | [@hiimmax](https://t.me/hiimmax)
 
 [linkedin](https://linkedin.com/in/maximdanilchenko)
  | [github](https://github.com/maximdanilchenko)
