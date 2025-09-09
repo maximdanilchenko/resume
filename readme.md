@@ -15,9 +15,16 @@ I am software engineering manager with a wide experience in different areas of w
 
 ## Experience
 
-### inDrive | Apr 2023 - Present
+### inDrive | May 2025 - Present
 Limassol, Cyprus
+
+#### Unit Lead
+May 2025 - Present
+
+Head of Experiments & Settings Unit, managing 3 teams - City Management, A/B Platform and Noifications teams.
+
 #### Engineering Manager
+Apr 2023 - May 2025
 
 Manager of team responsible for development and support of AB Testing and Analytics Platform.
 
@@ -74,12 +81,18 @@ Credential ID 081641
 
 ## Projects
 
-### aiochclient | 400k+ downloads
+### aiochclient | 1.4m+ downloads
 [github.com/maximdanilchenko/aiochclient](https://github.com/maximdanilchenko/aiochclient)
 
 Lightweight async http(s) Clickhouse client for python 3.6+ with types converting.
 
-### aiohttp-apispec | 1m+ downloads
+### aiohttp-apispec | 2m+ downloads
 [github.com/maximdanilchenko/aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec)
 
 Tool to build and document REST APIs with aiohttp.
+
+### notespilot.com
+[notespilot.com](https://www.notespilot.com)
+
+Intelligent writing companion with AI assistance
+
