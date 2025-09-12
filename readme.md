@@ -15,7 +15,7 @@ I am software engineering manager with a wide experience in different areas of w
 
 ## Experience
 
-### inDrive | May 2025 - Present
+### inDrive | Apr 2023 - Present
 Limassol, Cyprus
 
 #### Unit Lead
@@ -23,11 +23,21 @@ May 2025 - Present
 
 Head of Experiments & Settings Unit, managing 3 teams - City Management, A/B Platform and Noifications teams.
 
+- Management of 3 teams with 20 engineers
+- Implementing stratagy, planning, taking part in key projects
+- Hiring, problem solving, motivation
 #### Engineering Manager
 Apr 2023 - May 2025
 
-Manager of team responsible for development and support of AB Testing and Analytics Platform.
+Manager of team responsible for development and support of AB Testing and Analytics Platform wich is used by all product and platform teams (20+)
 
+Implemented number of big projects such as:
+- AB Platfotm geo distribution from one global region to number of macro regions across the world
+- Led and implemented system (tools and services) to deliver feature toggles to any region/service and to evaluate experiments and rollouts locally
+- Number of product related orijects sush as:
+    - analytics dashboard implementation 
+    - switchback / hexagons tests support 
+    - predefind user segments support up to 10mil for one test 
 ### Lamoda Group | Feb 2020 - Mar 2023
 Moscow, Russia
 
