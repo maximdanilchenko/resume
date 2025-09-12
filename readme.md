@@ -1,5 +1,5 @@
 # Maksim Danilchenko
-Engineering Manager at inDrive
+Unit Lead (Experiments & Settings) at inDrive
 
 _Limassol, Cyprus_
 
@@ -9,7 +9,7 @@ _Limassol, Cyprus_
  | [github](https://github.com/maximdanilchenko)
  | [danilchenko.dev](https://danilchenko.dev)
 
-I am software engineering manager with a wide experience in different areas of web development. My work is to build reliable and scalable systems convenient for maintenance and development.
+Software Engineering Manager with 10+ years of experience in building high-load distributed systems and leading engineering teams. My focus is on creating reliable and scalable platforms that are easy to maintain and evolve.
 
 -----
 
@@ -21,25 +21,26 @@ Limassol, Cyprus
 #### Unit Lead
 May 2025 - Present
 
-Head of Experiments & Settings Unit, managing 3 teams - City Management, A/B Platform and Noifications teams.
+Head of Experiments & Settings Unit
 
-- Management of 3 teams with 20 engineers
-- Hiring, problem solving, motivation
-- Implementing stratagy, planning, taking part in key projects such as:
-    - inDrive platformization - standardization and platformization of notification services, ab platform and admin platform usage
-    - Unified toggle management - enabling unified way to run tests across different 
+- Managing 3 teams (~20 engineers)
+- Hiring and onboarding, conflict solving, motivation and performance management
+- Driving unit strategy, planning, and delivering key projects, including:
+    - inDrive platformization - standardization and unification of notification, A/B testing, and admin platforms
+    - Unified toggle management - enabling consistent experimentation across internal systems (zero-code platform, admin/city management, promo platform, mobile delivery, etc.)
+    - Geo distribution of high load services like communication services or A/B platfrom APIs
 #### Engineering Manager
 Apr 2023 - May 2025
 
-Manager of team responsible for development and support of AB Testing and Analytics Platform wich is used by all product and platform teams (20+)
+Led a team responsible for the A/B Testing and Analytics Platform, used by 20+ product and platform teams.
 
-Implemented number of big projects such as:
-- AB Platfotm geo distribution from one global region to number of macro regions across the world
-- Led and implemented system (tools and services) to deliver feature toggles to any region/service and to evaluate experiments and rollouts locally
-- Number of product related orijects sush as:
-    - analytics dashboard implementation 
-    - switchback / hexagons tests support 
-    - predefind user segments support up to 10mil for one test 
+Key achievements:
+- Implemented geo-distribution of the A/B platform from one global region to multiple macro-regions
+- Designed and delivered a system for delivering feature toggles to any region/service and evaluating experiments locally at 100k+ QPS across all regions
+- Delivered product-focused projects, including:
+    - Analytics dashboard implementation
+    - Support for switchback/hexagon tests 
+    - Predefined user segments of up to 10M users per test
 ### Lamoda Group | Feb 2020 - Mar 2023
 Moscow, Russia
 
@@ -47,7 +48,7 @@ Lamoda Group is a leading online retailer in Russia and CIS. I was responsible f
 #### Department Lead (R&D)
 Jun 2022 - Mar 2023
 
-- Management of 4 teams - 2 product teams and 2 platform teams. Hiring, motivation, new teams and processes building, career dialogues etc. Launched 2 new teams from scratch. Participation in direction and department activities.
+- Managed 4 teams (2 product, 2 platform), launched 2 new teams from scratch, established processes, hiring, career development, and motivation programs. Participation in direction and department activities.
 - Interaction with a wide range of different teams and directions to achieve development goals and bring projects to the finishing stage.
 #### Software Engineer Team Lead (R&D)
 Feb 2020 - Jun 2022
@@ -61,7 +62,7 @@ Moscow, Russia
 #### Software / Senior / Lead Engineer
 Throughout my work at ATOL I was responsible for group of high-load web services: IoT endpoints for hundreds of thousands devices, REST APIs for clients and external apps, monitoring systems, cryptography issues and so on.
 
-- Grew from regular to lead software engineer. Lead the teams up to 5 developers. Integrated CI/CD processes.
+- Grew from Software Engineer to Lead Engineer, leading teams of up to 5 developers and introducing CI/CD processes.
 - Built complex microservice architectures using Python (flask, aiohttp), postgres, rabbitMQ, cassandra, Nomad, GitLab, docker.
 - Participated as a tech lead in designing the architecture from the very beginning working together with devops teams. 
 - Increased performance in application hot paths (using architecture changes, DB optimisations, Cython extensions etc). 
