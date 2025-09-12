@@ -24,8 +24,10 @@ May 2025 - Present
 Head of Experiments & Settings Unit, managing 3 teams - City Management, A/B Platform and Noifications teams.
 
 - Management of 3 teams with 20 engineers
-- Implementing stratagy, planning, taking part in key projects
 - Hiring, problem solving, motivation
+- Implementing stratagy, planning, taking part in key projects such as:
+    - inDrive platformization - standardization and platformization of notification services, ab platform and admin platform usage
+    - Unified toggle management - enabling unified way to run tests across different 
 #### Engineering Manager
 Apr 2023 - May 2025
 
