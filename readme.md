@@ -7,7 +7,6 @@ _Limassol, Cyprus_
 
 [linkedin](https://linkedin.com/in/maximdanilchenko)
  | [github](https://github.com/maximdanilchenko)
- | [danilchenko.dev](https://danilchenko.dev)
 
 Software Engineering Manager with 10+ years of experience in building high-load distributed systems and leading engineering teams. My focus is on creating reliable and scalable platforms that are easy to maintain and evolve.
 
