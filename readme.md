@@ -1,3 +1,4 @@
+![Photo](photo.jpeg)
 # Maksim Danilchenko
 Unit Lead (Experiments & Settings) at inDrive
 
